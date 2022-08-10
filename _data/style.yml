@@ -4,5 +4,6 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+# header-image: "../img/header-bg.jpg"
+header-image: "https://i.pinimg.com/originals/5e/cf/6b/5ecf6bd8170f61a20560a7332d8c7b91.jpg"
 contact-image: "../img/map-image.png"
