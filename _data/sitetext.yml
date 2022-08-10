@@ -172,7 +172,7 @@ es: &DEFAULT_ES
     list:
       - title: "Automatización"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-computer #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Repotenciación"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-solid fa-gear
@@ -187,7 +187,7 @@ es: &DEFAULT_ES
         icon: fas fa-microchip
       - title: "Mantenimiento"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fas fa-screwdriver-wrench
+        icon: fas fa-hammer
 
   portfolio:
     title: "Portafolio"
