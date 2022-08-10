@@ -182,9 +182,9 @@ es: &DEFAULT_ES
       - title: "Monitoreo"
         desc: "¿No sabes si tus empleados están usando correctamente tus equipos? Aquí te podemos ayudar!"
         icon: fas fa-video
-      - title: "Electrónica"
-        desc: "Desarrollamos equipos que faciliten tu trabajo para que seas más productivo."
-        icon: fas fa-microchip
+      - title: "Inteligencia Artificial"
+        desc: "Aprende de los datos, y toma importantes desiciones que ayudaran a tu proceso productivo."
+        icon: fas fa-brain
       - title: "Mantenimiento"
         desc: "Haz que tus equipos trabajen mejor y por mucho más tiempo."
         icon: fas fa-hammer
