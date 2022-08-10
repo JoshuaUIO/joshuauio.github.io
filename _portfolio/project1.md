@@ -5,14 +5,14 @@ image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: SERTEC
+  subtitle: Monitoreo
+  thumbnail: assets/img/portfolio/sertecpet.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Hemos implementado un sistema que nos permite reconocer cuando los operarios de las máquinas las utilizan, todo a fin de poder obtener datos del proceso de producción de la empresa.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Fecha: Febrero 2022
+- Client: SERTECPET
+- Categoria: Monitoreo de equipos CNC
 
