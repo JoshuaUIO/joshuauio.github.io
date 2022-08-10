@@ -178,16 +178,16 @@ es: &DEFAULT_ES
         icon: fas fa-gear
       - title: "Software"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-file-code
+        icon: fas fa-file-code
       - title: "Monitoreo"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-video
+        icon: fas fa-video
       - title: "Electrónica"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-microchip
+        icon: fas fa-microchip
       - title: "Mantenimiento"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-screwdriver-wrench
+        icon: fas fa-screwdriver-wrench
 
   portfolio:
     title: "Portafolio"
