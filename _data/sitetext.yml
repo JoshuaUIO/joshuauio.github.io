@@ -172,7 +172,7 @@ es: &DEFAULT_ES
     list:
       - title: "Automatización"
         desc: "Deja que tus equipos trabajen solos, mientras te dedicas a _lo más importante_."
-        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+        icon: fas fa-chip #find more at https://fontawesome.com/icons
       - title: "Repotenciación"
         desc: "Mejora tu equipo **ya existente**, y llevalo al siguiente nivel!"
         icon: fas fa-bolt
