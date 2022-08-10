@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: SERTEC
   subtitle: Monitoreo
-  thumbnail: assets/img/portfolio/sertecpet.jpg
+  thumbnail: assets/img/portfolio/sertecpet_mini.jpg
 ---
 Hemos implementado un sistema que nos permite reconocer cuando los operarios de las máquinas las utilizan, todo a fin de poder obtener datos del proceso de producción de la empresa.
 
