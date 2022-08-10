@@ -14,5 +14,5 @@ En este trabajo se recupero el diseño CAD de un sanitario con el objetivo de la
 {:.list-inline}
 - Fecha: Febrero 2019
 - Cliente: FV
-- Categoría: Identity
+- Categoría: Ingeniería Inversa
 
