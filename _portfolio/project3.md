@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Ingeniería Inversa
+subtitle: Sanitario - FV
+image: assets/img/portfolio/baño.jpeg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Ingeniería Inversa
+  subtitle: Sanitario - FV
+  thumbnail: assets/img/portfolio/baño_mini.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+En este trabajo se recupero el diseño CAD de un sanitario con el objetivo de la fabricación de un molde. La ingeniería inversa permite la reingeniería de un producto de manera sencilla y rápida, disminuyendo el time-to-market.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Fecha: Febrero 2019
+- Cliente: FV
+- Categoría: Identity
 
