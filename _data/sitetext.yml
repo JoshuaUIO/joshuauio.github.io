@@ -252,11 +252,11 @@ es: &DEFAULT_ES
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Estamos conformados principalmente por:"
+    subtext: Además, contamos con el apoyo de ingenieros y expertos en múlitples ramas de la industria y ciencia. Desde telecomunicaciones hasta desarrollo web y demás!
     section: equipo
     people:
-      - name: "Josue Andino"
+      - name: "Josué Andino"
         role: "Ingeniero Electrónico"
         image: assets/img/team/josue.png
         social:
