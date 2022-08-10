@@ -257,16 +257,16 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diego Ñauñay"
-        role: "Ingeniero Mecatrónico"
-        image: assets/img/team/naunay.png
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      #- name: "Diego Ñauñay"
+      #  role: "Ingeniero Mecatrónico"
+      #  image: assets/img/team/naunay.png
+      #  social:
+      #    - url: https://twitter.com
+      #      icon: fab fa-twitter
+      #    - url: https://facebook.com
+      #      icon: fab fa-facebook-f
+      #    - url: https://linkedin.com
+      #      icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
