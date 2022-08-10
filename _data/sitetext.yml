@@ -178,7 +178,10 @@ es: &DEFAULT_ES
         icon: fas fa-robot
       - title: "Software"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-laptop-code
+        icon: fab fa-laptop
+      - title: "PLC"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-server
 
   portfolio:
     title: "Portafolio"
