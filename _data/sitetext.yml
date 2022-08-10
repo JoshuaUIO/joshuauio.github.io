@@ -160,8 +160,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    title: ¡Bienvenido a LOGICO!
+    text: Mide - Controla - Mejora
     button: Ver más
     buttonlink: "#servicios"
 
