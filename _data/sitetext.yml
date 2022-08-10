@@ -174,7 +174,7 @@ es: &DEFAULT_ES
         desc: "Deja que tus equipos trabajen solos, mientras te dedicas a _lo más importante_."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Repotenciación"
-        desc: "Una mejora a tu equipo **ya existente** para llevarlo al siguiente nivel!"
+        desc: "Mejora tu equipo **ya existente**, y llevalo al siguiente nivel!"
         icon: fas fa-bolt
       - title: "Software"
         desc: "A veces, un programa de computadora puede hacer tu vida mucho más sencilla."
