@@ -14,5 +14,5 @@ Hemos implementado un sistema que nos permite reconocer cuando los operarios de 
 {:.list-inline}
 - Fecha: Febrero 2022
 - Cliente: SERTECPET
-- Categoria: Monitoreo
+- Categoría: Monitoreo
 
