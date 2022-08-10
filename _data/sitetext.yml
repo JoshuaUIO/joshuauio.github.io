@@ -171,22 +171,22 @@ es: &DEFAULT_ES
     section: servicios
     list:
       - title: "Automatización"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Deja que tus equipos trabjen solos, mientras te dedicas a lo más importante."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Repotenciación"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Una mejora a tu equipo **ya existente** para llevarlo al siguiente nivel!"
         icon: fas fa-bolt
       - title: "Software"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "A veces, un programa de computadora puede hacer tu vida mucho más sencilla."
         icon: fas fa-file-code
       - title: "Monitoreo"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "¿No sabes si tus empleados están usando correctamente tus equipos? Aquí te podemos ayudar!"
         icon: fas fa-video
       - title: "Electrónica"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "Podemos desarrollar equipos que faciliten tu trabajo para que seas más productivo."
         icon: fas fa-microchip
       - title: "Mantenimiento"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "Haz que tus equipos trabajen mejor y por mucho más tiempo."
         icon: fas fa-hammer
 
   portfolio:
