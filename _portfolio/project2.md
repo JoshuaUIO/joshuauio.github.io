@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Sensor de Corriente RMS
+subtitle: Desarrollo de una PCB para medir corriente RMS
+image: assets/img/portfolio/pcb_corriente.png
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: PCB Corriente
+  subtitle: Sensor de Corriente
+  thumbnail: assets/img/portfolio/pcb_corriente_mini.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Desarrollo de una placa PCB para medir la corriente RMS de equipos de manufactura CNC.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Fecha: Julio 2022
+- Cliente: BKB
+- Categoría: Automatización
 
