@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Monitorero Equipos CNC - SERTECPET
+subtitle: Monitoreo de Máquinas CNC 
 image: assets/img/portfolio/sertecpet.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: SERTEC
-  subtitle: Monitoreo
+  title: SERTECPET
+  subtitle: Monitoreo CNC
   thumbnail: assets/img/portfolio/sertecpet_mini.jpg
 ---
-Hemos implementado un sistema que nos permite reconocer cuando los operarios de las máquinas las utilizan, todo a fin de poder obtener datos del proceso de producción de la empresa.
+Hemos implementado un sistema que nos permite reconocer cuando los operarios de las máquinas CNC las utilizan. Todo a fin de obtimizar el proceso productivo en la fabricación de roscas para la tubería utilizada en la extracción de petroleo.
 
 {:.list-inline}
 - Fecha: Febrero 2022
-- Client: SERTECPET
-- Categoria: Monitoreo de equipos CNC
+- Cliente: SERTECPET
+- Categoria: Monitoreo
 
