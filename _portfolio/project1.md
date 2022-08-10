@@ -1,5 +1,5 @@
 ---
-title: Monitorero Equipos CNC - SERTECPET
+title: Monitoreo Equipos CNC - SERTECPET
 subtitle: Monitoreo de Máquinas CNC 
 image: assets/img/portfolio/sertecpet.jpg
 alt: Shirts on a hanger
